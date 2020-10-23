@@ -1,0 +1,695 @@
+{
+    "star": {
+        "baseInfos": {
+            "booster": [],
+            "ship": [
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 1,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 140
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 2,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 83
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 3,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110201",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 73
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 4,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110201",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 83
+                },
+                {
+                    "type": 0,
+                    "hasShield": true,
+                    "slot": 1,
+                    "uid": 5,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 88
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 6,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 91
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 7,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110201",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 87
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 8,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110201",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 87
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 9,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 87
+                },
+                {
+                    "type": 0,
+                    "hasShield": false,
+                    "slot": 1,
+                    "uid": 10,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "110101",
+                    "level": 0,
+                    "exp": 0,
+                    "growthHp": 0,
+                    "initialHp": 44
+                }
+            ],
+            "cat": [
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 101,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 102,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 103,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 104,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 105,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 106,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 107,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 108,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 109,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 110,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120901",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 20,
+                    "initialAtt": 10,
+                    "initialCrit": 150
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10101,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120102",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 37,
+                    "initialAtt": 19,
+                    "initialCrit": 420
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10201,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120102",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 35,
+                    "initialAtt": 17,
+                    "initialCrit": 390
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10202,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120002",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 35,
+                    "initialAtt": 17,
+                    "initialCrit": 390
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10302,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120202",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 35,
+                    "initialAtt": 17,
+                    "initialCrit": 390
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10303,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120102",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 35,
+                    "initialAtt": 17,
+                    "initialCrit": 390
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10403,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120202",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 32,
+                    "initialAtt": 14,
+                    "initialCrit": 350
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10404,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120202",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 32,
+                    "initialAtt": 14,
+                    "initialCrit": 350
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10504,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120202",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 33,
+                    "initialAtt": 15,
+                    "initialCrit": 350
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10602,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120202",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 33,
+                    "initialAtt": 15,
+                    "initialCrit": 350
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10702,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120002",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 30,
+                    "initialAtt": 13,
+                    "initialCrit": 320
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10802,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120002",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 28,
+                    "initialAtt": 11,
+                    "initialCrit": 300
+                },
+                {
+                    "type": 1,
+                    "isNormal": true,
+                    "uid": 10902,
+                    "quality": 1,
+                    "star": 1,
+                    "id": "120002",
+                    "level": 0,
+                    "exp": 0,
+                    "growthAtt": 0,
+                    "growthCrit": 0,
+                    "growthHp": 0,
+                    "initialHp": 25,
+                    "initialAtt": 10,
+                    "initialCrit": 290
+                }
+            ]
+        }
+    },
+    "players": [
+        {
+            "nickName": "mimimo",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 1
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 101,
+                    "box_player2": 10101,
+                    "box_player3": 10102,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 101.5,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "小雏菊",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 2
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 102,
+                    "box_player2": 10201,
+                    "box_player3": 10202,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 82.4,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "喵小咪﹥ε<",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 3
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 103,
+                    "box_player2": 0,
+                    "box_player3": 10302,
+                    "box_player4": 10303,
+                    "box_player5": 0
+                }
+            },
+            "sun": 79.75,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "145646",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 4
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 104,
+                    "box_player2": 0,
+                    "box_player3": 0,
+                    "box_player4": 10403,
+                    "box_player5": 10404
+                }
+            },
+            "sun": 74.75,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "bulletBill",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 5
+                },
+                "booster": 149901,
+                "player": {
+                    "box_player1": 105,
+                    "box_player2": 0,
+                    "box_player3": 0,
+                    "box_player4": 0,
+                    "box_player5": 10504
+                }
+            },
+            "sun": 55.25,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "沧桑为饮",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 6
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 106,
+                    "box_player2": 0,
+                    "box_player3": 10602,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 53.5,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "嘘!小声点",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 7
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 107,
+                    "box_player2": 0,
+                    "box_player3": 10702,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 52.25,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "zhangzhiyuan",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 8
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 108,
+                    "box_player2": 0,
+                    "box_player3": 10802,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 49.0,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "贱人必有天收",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 9
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 109,
+                    "box_player2": 0,
+                    "box_player3": 10902,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 48.25,
+            "avatarUrl": "",
+            "openId": ""
+        },
+        {
+            "nickName": "浅忆MOKE",
+            "shipInfo": {
+                "ship": {
+                    "star": 1,
+                    "uid": 10
+                },
+                "booster": 0,
+                "player": {
+                    "box_player1": 110,
+                    "box_player2": 0,
+                    "box_player3": 0,
+                    "box_player4": 0,
+                    "box_player5": 0
+                }
+            },
+            "sun": 21.2,
+            "avatarUrl": "",
+            "openId": ""
+        }
+    ]
+}

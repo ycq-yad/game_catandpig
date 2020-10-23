@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1920,"height":1080},"compId":2,"child":[{"type":"Box","props":{"var":"box_main","top":0,"right":0,"left":0,"bottom":0},"compId":3},{"type":"Box","props":{"var":"box_view","top":0,"right":0,"left":0,"bottom":0},"compId":21}],"loadList":[],"loadList3D":[]}

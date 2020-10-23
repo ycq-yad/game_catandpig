@@ -1,0 +1,11 @@
+{
+    "showCd": false,
+    "serverConf": "wts",
+    "version":1001,
+    "bannerId": ["adunit-b35827b5e91d8bf4","adunit-b8fe914583fed849"],
+    "videoId": ["adunit-422bbcd0fd8be84a","adunit-3eca3fda9ad705a1"],
+    "longVideoId": ["adunit-422bbcd0fd8be84a","adunit-3eca3fda9ad705a1"],
+    "isOpen": true,
+    "strogeVersion":1001,
+    "adConversion":false
+}

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 100001,
+        "velx": 25,
+        "vely": 25,
+        "gravityScale": 0.5,
+        "icon": "crow_bullet",
+        "width": 15,
+        "height": 15,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100002,
+        "velx": 18,
+        "vely": 18,
+        "gravityScale": 1,
+        "icon": "wooden_harpoon_projectile",
+        "width": 76,
+        "height": 24,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100003,
+        "velx": 25,
+        "vely": 25,
+        "gravityScale": 2,
+        "icon": "cat_torpedo_projectile",
+        "width": 89,
+        "height": 22,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100004,
+        "velx": 22,
+        "vely": 20,
+        "gravityScale": 2,
+        "icon": "crow_bullet",
+        "width": 60,
+        "height": 60,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100005,
+        "velx": 18,
+        "vely": 10,
+        "gravityScale": 4,
+        "icon": "crow_bullet",
+        "width": 20,
+        "height": 20,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100009,
+        "velx": 22,
+        "vely": 20,
+        "gravityScale": 2,
+        "icon": "crow_bullet",
+        "width": 60,
+        "height": 60,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100101,
+        "velx": 25,
+        "vely": 15,
+        "gravityScale": 4,
+        "icon": "bomber_bomb",
+        "width": 75,
+        "height": 75,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100102,
+        "velx": 25,
+        "vely": 25,
+        "gravityScale": 0.5,
+        "icon": "crow_bullet",
+        "width": 20,
+        "height": 20,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100103,
+        "velx": 16,
+        "vely": 8,
+        "gravityScale": 4,
+        "icon": "crow_bullet",
+        "width": 20,
+        "height": 20,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100104,
+        "velx": 17,
+        "vely": 9,
+        "gravityScale": 4,
+        "icon": "",
+        "width": "",
+        "height": "",
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100105,
+        "velx": 18,
+        "vely": 10,
+        "gravityScale": 4,
+        "icon": "crow_bullet",
+        "width": 50,
+        "height": 50,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100106,
+        "velx": 18,
+        "vely": 30,
+        "gravityScale": 4,
+        "icon": "bomber_bomb",
+        "width": 75,
+        "height": 75,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100107,
+        "velx": 18,
+        "vely": 10,
+        "gravityScale": 4,
+        "icon": "enemy_rocket",
+        "width": 74,
+        "height": 44,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100108,
+        "velx": 18,
+        "vely": 10,
+        "gravityScale": 4,
+        "icon": "cat_torpedo_projectile",
+        "width": 89,
+        "height": 22,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100109,
+        "velx": 25,
+        "vely": 25,
+        "gravityScale": 0.5,
+        "icon": "crow_bullet",
+        "width": 30,
+        "height": 30,
+        "inco_drag": "",
+        "effect": ""
+    },
+    {
+        "id": 100901,
+        "velx": 25,
+        "vely": 25,
+        "gravityScale": 0.5,
+        "icon": "crow_bullet",
+        "width": 30,
+        "height": 30,
+        "inco_drag": "",
+        "effect": ""
+    }
+]

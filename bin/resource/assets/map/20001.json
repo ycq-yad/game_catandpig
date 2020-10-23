@@ -1,0 +1,79 @@
+{
+    "1": [
+        {
+            "id": "130102",
+            "config": [
+                {
+                    "x": 1400,
+                    "y": 510,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 6,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "time": 1000,
+                    "cmd": "wait"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        }
+    ],
+    "2": [
+        {
+            "id": "130102",
+            "config": [
+                {
+                    "x": 2000,
+                    "y": 550,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 6,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -4,
+                    "vely": 0,
+                    "time": 4000,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        },
+        {
+            "id": "130102",
+            "config": [
+                {
+                    "x": 2300,
+                    "y": 550,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 6,
+                    "crit": 1000,
+                    "attackCD": 3000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -4,
+                    "vely": 0,
+                    "time": 5000,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        }
+    ]
+}

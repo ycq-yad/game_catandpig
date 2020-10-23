@@ -1,0 +1,223 @@
+{
+    "shareInfo": [
+        {
+            "title": "如果猫猪争宠，你会站在哪一边？",
+            "imageUrl": "https://package.32yx.com/ecy_game_small/laya/catAndPig/wx_res/share1.png",
+            "query": ""
+        }
+    ],
+    
+    "invite": [
+        {
+            "id": 1,
+            "name": 1,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": 2,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": 3,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": 4,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": 5,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": 6,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": 7,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": 8,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": 9,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": 10,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": 11,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": 12,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": 13,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": 14,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": 15,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": 16,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": 17,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": 18,
+            "reward": [
+                {
+                    "type": 1,
+                    "num": 2
+                }
+            ]
+        }
+    ],
+
+    "sign":[
+        {"id":1,"name":"第1天","reward":[{"type":1001,"num":200}],"info":"金币"},
+        {"id":2,"name":"第2天","reward":[{"type":1002,"num":10}],"info":"砖石"},
+        {"id":3,"name":"第3天","reward":[{"type":1001,"num":300}],"info":"金币"},
+        {"id":4,"name":"第4天","reward":[{"type":1002,"num":20}],"info":"砖石"},
+        {"id":5,"name":"第5天","reward":[{"type":1001,"num":500}],"info":"金币"},
+        {"id":6,"name":"第6天","reward":[{"type":1002,"num":50}],"info":"砖石"},
+        {"id":7,"name":"第7天","reward":[{"type":1001,"num":800}],"info":"金币"},
+        {"id":8,"name":"第1天","reward":[{"type":1002,"num":200}],"info":"金币"},
+        {"id":9,"name":"第2天","reward":[{"type":1001,"num":10}],"info":"砖石"},
+        {"id":10,"name":"第3天","reward":[{"type":1002,"num":300}],"info":"金币"},
+        {"id":11,"name":"第4天","reward":[{"type":1001,"num":20}],"info":"砖石"},
+        {"id":12,"name":"第5天","reward":[{"type":1002,"num":500}],"info":"金币"},
+        {"id":13,"name":"第6天","reward":[{"type":1001,"num":50}],"info":"砖石"},
+        {"id":14,"name":"第7天","reward":[{"type":1002,"num":800}],"info":"金币"},
+        {"id":15,"name":"第1天","reward":[{"type":1001,"num":200}],"info":"金币"},
+        {"id":16,"name":"第2天","reward":[{"type":1002,"num":10}],"info":"砖石"},
+        {"id":17,"name":"第3天","reward":[{"type":1001,"num":300}],"info":"金币"},
+        {"id":18,"name":"第4天","reward":[{"type":1002,"num":20}],"info":"砖石"},
+        {"id":19,"name":"第5天","reward":[{"type":1001,"num":500}],"info":"金币"},
+        {"id":20,"name":"第6天","reward":[{"type":1002,"num":50}],"info":"砖石"},
+        {"id":21,"name":"第7天","reward":[{"type":1001,"num":800}],"info":"金币"},
+        {"id":22,"name":"第1天","reward":[{"type":1002,"num":200}],"info":"金币"},
+        {"id":23,"name":"第2天","reward":[{"type":1001,"num":10}],"info":"砖石"},
+        {"id":24,"name":"第3天","reward":[{"type":1002,"num":300}],"info":"金币"},
+        {"id":25,"name":"第4天","reward":[{"type":1001,"num":20}],"info":"砖石"},
+        {"id":26,"name":"第5天","reward":[{"type":1002,"num":500}],"info":"金币"},
+        {"id":27,"name":"第6天","reward":[{"type":1001,"num":50}],"info":"砖石"},
+        {"id":28,"name":"第7天","reward":[{"type":1002,"num":800}],"info":"金币"}
+    ]
+}

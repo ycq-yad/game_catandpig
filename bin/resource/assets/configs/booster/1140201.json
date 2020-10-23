@@ -1,0 +1,26 @@
+{
+            "id": "130002",
+            "config": [
+                {
+                    "x": 1200,
+                    "y": 200,
+                    "time": 1000,
+                    "damage":5,
+                    "hp":6,
+                    "crit":1000,
+                    "attackCD":2000,
+                    "cmd": "brith"
+                },
+                {
+                    "time": 500,
+                    "cmd": "wait"
+                },
+                {
+                    "time": 6500,
+                    "cmd": "attack"
+                },  
+                {  
+                   "cmd": "destory"
+                }
+            ]
+        }

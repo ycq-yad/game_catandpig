@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1069,"height":853},"compId":2,"child":[{"type":"Image","props":{"y":346,"x":435,"skin":"resource/assets/img/platfrom/diban_3.png","sizeGrid":"11,14,12,9"},"compId":24}],"loadList":["resource/assets/img/platfrom/diban_3.png"],"loadList3D":[]}

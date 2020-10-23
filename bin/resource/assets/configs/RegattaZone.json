@@ -1,0 +1,37 @@
+[
+    {
+        "zoneNo": 1,
+        "playerNo": 1,
+        "unlockStarMax": 2,
+        "unlockSlotMax": 2,
+        "reward": "160106|1"
+    },
+    {
+        "zoneNo": 2,
+        "playerNo": 2,
+        "unlockStarMax": 3,
+        "unlockSlotMax": 3,
+        "reward": "160106|1"
+    },
+    {
+        "zoneNo": 3,
+        "playerNo": 3,
+        "unlockStarMax": 4,
+        "unlockSlotMax": 4,
+        "reward": "160106|1"
+    },
+    {
+        "zoneNo": 4,
+        "playerNo": 4,
+        "unlockStarMax": 5,
+        "unlockSlotMax": 4,
+        "reward": "160106|1"
+    },
+    {
+        "zoneNo": 5,
+        "playerNo": 5,
+        "unlockStarMax": 5,
+        "unlockSlotMax": 4,
+        "reward": "160106|1,120305|1"
+    }
+]

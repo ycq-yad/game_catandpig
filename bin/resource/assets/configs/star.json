@@ -1,0 +1,158 @@
+{
+    "boosterStar": [
+        {
+            "star": 1,
+            "initialHpMin": 13.6,
+            "initialHpMax": 18.4,
+            "growthHpMin": 2.975,
+            "growthHpMax": 4.025,
+            "skillCD": 7000
+        },
+        {
+            "star": 2,
+            "initialHpMin": 21.25,
+            "initialHpMax": 28.75,
+            "growthHpMin": 4.25,
+            "growthHpMax": 5.75,
+            "skillCD": 7000
+        },
+        {
+            "star": 3,
+            "initialHpMin": 34,
+            "initialHpMax": 46,
+            "growthHpMin": 6.375,
+            "growthHpMax": 8.625,
+            "skillCD": 7000
+        },
+        {
+            "star": 4,
+            "initialHpMin": 51.85,
+            "initialHpMax": 70.15,
+            "growthHpMin": 9.35,
+            "growthHpMax": 12.65,
+            "skillCD": 7000
+        },
+        {
+            "star": 5,
+            "initialHpMin": 74.8,
+            "initialHpMax": 101.2,
+            "growthHpMin": 13.175,
+            "growthHpMax": 17.825,
+            "skillCD": 7000
+        }
+    ],
+    "catStar": [
+        {
+            "star": 1,
+            "initialAttMin": 4.93,
+            "initialAttMax": 6.67,
+            "initialHpMin": 12.6,
+            "initialHpMax": 15.4,
+            "initialCritMin": 144,
+            "initialCritMax": 176,
+            "growthAttMin": 0.85,
+            "growthAttMax": 1.15,
+            "growthHpMin": 1.8,
+            "growthHpMax": 2.2,
+            "growthCritMin": 99,
+            "growthCritMax": 121
+        },
+        {
+            "star": 2,
+            "initialAttMin": 6.97,
+            "initialAttMax": 9.43,
+            "initialHpMin": 23.4,
+            "initialHpMax": 28.6,
+            "initialCritMin": 171,
+            "initialCritMax": 209,
+            "growthAttMin": 1.02,
+            "growthAttMax": 1.38,
+            "growthHpMin": 2.7,
+            "growthHpMax": 3.3,
+            "growthCritMin": 101.7,
+            "growthCritMax": 124.3
+        },
+        {
+            "star": 3,
+            "initialAttMin": 10.37,
+            "initialAttMax": 14.03,
+            "initialHpMin": 41.4,
+            "initialHpMax": 50.6,
+            "initialCritMin": 216,
+            "initialCritMax": 264,
+            "growthAttMin": 1.53,
+            "growthAttMax": 2.07,
+            "growthHpMin": 5.4,
+            "growthHpMax": 6.6,
+            "growthCritMin": 109.8,
+            "growthCritMax": 134.2
+        },
+        {
+            "star": 4,
+            "initialAttMin": 15.13,
+            "initialAttMax": 20.47,
+            "initialHpMin": 66.6,
+            "initialHpMax": 81.4,
+            "initialCritMin": 279,
+            "initialCritMax": 341,
+            "growthAttMin": 2.38,
+            "growthAttMax": 3.22,
+            "growthHpMin": 9.9,
+            "growthHpMax": 12.1,
+            "growthCritMin": 123.3,
+            "growthCritMax": 150.7
+        },
+        {
+            "star": 5,
+            "initialAttMin": 21.25,
+            "initialAttMax": 28.75,
+            "initialHpMin": 99,
+            "initialHpMax": 121,
+            "initialCritMin": 360,
+            "initialCritMax": 440,
+            "growthAttMin": 3.57,
+            "growthAttMax": 4.83,
+            "growthHpMin": 16.2,
+            "growthHpMax": 19.8,
+            "growthCritMin": 142.2,
+            "growthCritMax": 173.8
+        }
+    ],
+    "shipStar": [
+        {
+            "star": 1,
+            "initialHpMin": 49.3,
+            "initialHpMax": 66.7,
+            "growthHpMin": 3.23,
+            "growthHpMax": 4.37
+        },
+        {
+            "star": 2,
+            "initialHpMin": 69.7,
+            "initialHpMax": 94.3,
+            "growthHpMin": 5.27,
+            "growthHpMax": 7.13
+        },
+        {
+            "star": 3,
+            "initialHpMin": 103.7,
+            "initialHpMax": 140.3,
+            "growthHpMin": 8.67,
+            "growthHpMax": 11.73
+        },
+        {
+            "star": 4,
+            "initialHpMin": 151.3,
+            "initialHpMax": 204.7,
+            "growthHpMin": 13.43,
+            "growthHpMax": 18.17
+        },
+        {
+            "star": 5,
+            "initialHpMin": 212.5,
+            "initialHpMax": 287.5,
+            "growthHpMin": 19.55,
+            "growthHpMax": 26.45
+        }
+    ]
+}

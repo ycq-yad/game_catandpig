@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "大补给箱",
+        "itemID": 160101,
+        "itemDes": "包含|14个|船、猫和增幅器至少|2个稀有",
+        "desColor": "#FFFAFA|#32CD32|#FFFAFA|#FFA500",
+        "cost": 500
+    },
+    {
+        "id": 2,
+        "name": "超级补给箱",
+        "itemID": 160102,
+        "itemDes": "包含|18个|船、猫和增幅器至少|3个稀有",
+        "desColor": "#FFFAFA|#32CD32|#FFFAFA|#FFA500",
+        "cost": 950
+    },
+    {
+        "id": 3,
+        "name": "船补给箱",
+        "itemID": 160103,
+        "itemDes": "包含|5个|船,至少|1个稀有",
+        "desColor": "#FFFAFA|#32CD32|#FFFAFA|#FFA500",
+        "cost": 250
+    },
+    {
+        "id": 4,
+        "name": "猫补给箱",
+        "itemID": 160104,
+        "itemDes": "包含|5个|猫,至少|1个稀有",
+        "desColor": "#FFFAFA|#32CD32|#FFFAFA|#FFA500",
+        "cost": 250
+    },
+    {
+        "id": 5,
+        "name": "测试宝箱1星",
+        "itemID": 169901,
+        "itemDes": "测试宝箱|1星",
+        "desColor": "#FFFAFA|#32CD32",
+        "cost": 0
+    },
+    {
+        "id": 6,
+        "name": "测试宝箱2星",
+        "itemID": 169902,
+        "itemDes": "测试宝箱|2星",
+        "desColor": "#FFFAFA|#32CD32",
+        "cost": 0
+    },
+    {
+        "id": 7,
+        "name": "测试宝箱3星",
+        "itemID": 169903,
+        "itemDes": "测试宝箱|3星",
+        "desColor": "#FFFAFA|#32CD32",
+        "cost": 0
+    },
+    {
+        "id": 8,
+        "name": "测试宝箱4星",
+        "itemID": 169904,
+        "itemDes": "测试宝箱|4星",
+        "desColor": "#FFFAFA|#32CD32",
+        "cost": 0
+    },
+    {
+        "id": 9,
+        "name": "测试宝箱5星",
+        "itemID": 169905,
+        "itemDes": "测试宝箱|5星",
+        "desColor": "#FFFAFA|#32CD32",
+        "cost": 0
+    }
+]

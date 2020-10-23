@@ -1,0 +1,559 @@
+{
+    "1": [
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 2000,
+                    "y": 150,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 6500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "wait"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 2000,
+                    "y": 650,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 6500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        }
+    ],
+    "2": [
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1300,
+                    "y": 100,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "wait"
+                }
+            ]
+        },
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1600,
+                    "y": 250,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "wait"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 2600,
+                    "y": 750,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 8500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 2900,
+                    "y": 750,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 8500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        }
+    ],
+    "3": [
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1000,
+                    "y": 100,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 2,
+                    "time": 1500,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": 2,
+                    "time": 800,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": -2,
+                    "time": 1500,
+                    "cmd": "move"
+                },
+                {
+                    "velx": 2,
+                    "vely": -2,
+                    "time": 800,
+                    "cmd": "move"
+                }
+            ]
+        },
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1300,
+                    "y": 250,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 2,
+                    "time": 1500,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": 2,
+                    "time": 800,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": -2,
+                    "time": 1500,
+                    "cmd": "move"
+                },
+                {
+                    "velx": 2,
+                    "vely": -2,
+                    "time": 800,
+                    "cmd": "move"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 1300,
+                    "y": 750,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 0,
+                    "vely": -1,
+                    "time": 1000,
+                    "cmd": "attackAndMove"
+                },
+                {
+                    "velx": 0,
+                    "vely": 1,
+                    "time": 1000,
+                    "cmd": "attackAndMove"
+                }
+            ]
+        },
+        {
+            "id": "130102",
+            "config": [
+                {
+                    "x": 1000,
+                    "y": -150,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 0,
+                    "vely": 20,
+                    "time": 700,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "attack"
+                }
+            ]
+        }
+    ],
+    "4": [
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1000,
+                    "y": 300,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "move"
+                }
+            ]
+        },
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1200,
+                    "y": 300,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 0,
+                    "vely": -2,
+                    "time": 2000,
+                    "cmd": "move"
+                },
+                {
+                    "velx": 0,
+                    "vely": 2,
+                    "time": 2000,
+                    "cmd": "move"
+                }
+            ]
+        },
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 1400,
+                    "y": 300,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "move"
+                },
+                {
+                    "velx": -2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "move"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 1000,
+                    "y": 700,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "attackAndMove"
+                },
+                {
+                    "velx": -2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "attackAndMove"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 1400,
+                    "y": 700,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 5000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": 2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "attackAndMove"
+                },
+                {
+                    "velx": -2,
+                    "vely": 0,
+                    "time": 2000,
+                    "cmd": "attackAndMove"
+                }
+            ]
+        }
+    ],
+    "5": [
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 2000,
+                    "y": 150,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 3000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 6500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "wait"
+                }
+            ]
+        },
+        {
+            "id": "130001",
+            "config": [
+                {
+                    "x": 2500,
+                    "y": 150,
+                    "time": 1000,
+                    "damage": 7,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 4000,
+                    "cmd": "brith"
+                },
+                {
+                    "velx": -3,
+                    "vely": 0,
+                    "time": 6500,
+                    "cmd": "move"
+                },
+                {
+                    "time": 3000000,
+                    "cmd": "wait"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 2100,
+                    "y": 700,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 3000,
+                    "cmd": "brith"
+                },
+                {
+                    "attackAndMove": [
+                        {
+                            "velx": -2,
+                            "vely": 2,
+                            "time": 1000
+                        },
+                        {
+                            "velx": -2,
+                            "vely": -2,
+                            "time": 1000
+                        }
+                    ],
+                    "time": 11000,
+                    "cmd": "attackAndMoveAuto"
+                },
+                {
+                    "attackAndMove": [
+                        {
+                            "velx": 0,
+                            "vely": -2,
+                            "time": 1000
+                        },
+                        {
+                            "velx": 0,
+                            "vely": 2,
+                            "time": 1000
+                        }
+                    ],
+                    "time": 3000000,
+                    "cmd": "attackAndMoveAuto"
+                }
+            ]
+        },
+        {
+            "id": "130203",
+            "config": [
+                {
+                    "x": 2600,
+                    "y": 700,
+                    "time": 1000,
+                    "damage": 3,
+                    "hp": 5,
+                    "crit": 1000,
+                    "attackCD": 3000,
+                    "cmd": "brith"
+                },
+                {
+                    "attackAndMove": [
+                        {
+                            "velx": -2,
+                            "vely": 2,
+                            "time": 1000
+                        },
+                        {
+                            "velx": -2,
+                            "vely": -2,
+                            "time": 1000
+                        }
+                    ],
+                    "time": 11000,
+                    "cmd": "attackAndMoveAuto"
+                },
+                {
+                    "attackAndMove": [
+                        {
+                            "velx": 0,
+                            "vely": -2,
+                            "time": 1000
+                        },
+                        {
+                            "velx": 0,
+                            "vely": 2,
+                            "time": 1000
+                        }
+                    ],
+                    "time": 3000000,
+                    "cmd": "attackAndMoveAuto"
+                }
+            ]
+        }
+    ]
+}
